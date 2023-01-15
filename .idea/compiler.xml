@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-simple/0.41.1/dee133d1fcf4c9e332e8a80ba9e8f107721bee02/ejml-simple-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-fsparse/0.41.1/a48c840c4c8889ba655932808bd595f9ae9a21f8/ejml-fsparse-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-fdense/0.41.1/4a42ca6eb66e12b9821d285cd81c21db316ee31b/ejml-fdense-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-dsparse/0.41.1/a7de09f7ad33a16c304119be2bd9749f9c4e8744/ejml-dsparse-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-ddense/0.41.1/4b4a6ae2939f93bdf038ea443daf778df88ae25d/ejml-ddense-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-cdense/0.41.1/2a65937718b1ddf98e92a3643d26ecd67a6a0ae8/ejml-cdense-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-zdense/0.41.1/bba5e6687b960cc260f16de503a091805196af27/ejml-zdense-0.41.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-core/0.41.1/226784c749ed20834f901cfcc6b6d437d6ae9a06/ejml-core-0.41.1.jar" />
+        </processorPath>
+        <module name="MetodaRoznicSkonczonych.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="16" />
+  </component>
+</project>
